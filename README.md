@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parashmusic&label=Profile%20views&color=0e75b6&style=flat" alt="parashmusic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parashmusic" alt="parashmusic" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://codebyparash.vercel.app/](https://codebyparash.vercel.app/)
 
 - 📫 How to reach me **parashmusic770@gmail.com**

@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codebyparash.vercel.app/](https://codebyparash.vercel.app/)
 
-- 📫 How to reach me **parashmusic770@gmail.com**
+- 📫 How to reach me **parashinfo.dev@gmail.com**
 
 
 ## 🌐 Socials:
@@ -17,6 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=parashmusic&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=parashmusic&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parashmusic&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 

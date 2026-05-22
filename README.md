@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parashmusic&label=Profile%20views&color=0e75b6&style=flat" alt="parashmusic" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://codebyparash.vercel.app/](https://parashdev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://parashdev.vercel.app/](https://parashdev.vercel.app/)
 
 - 📫 How to reach me **parashinfo.dev@gmail.com**
 

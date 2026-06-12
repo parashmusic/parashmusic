@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://parashdev.vercel.app/](https://parashdev.vercel.app/)
 
-- 📫 How to reach me **parashinfo.dev@gmail.com**
+- 📫 How to reach me **parashmoni.info@gmail.com**
 
 
 ## 🌐 Socials:

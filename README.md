@@ -12,7 +12,7 @@
 <div align="center">
 
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%7C+Machine+Learning;Distributed+Systems;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%7C+Machine+Learning;Distributed+Systems;Android+Development" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=parashmusic&style=for-the-badge&color=00F7FF" />
 </div>
@@ -86,5 +86,5 @@
 <div align="center">
 
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00F7FF,50:7C3AED,100:FF00FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00F7FF,50:7C3AED,100:7C3AED" />
 </div>
